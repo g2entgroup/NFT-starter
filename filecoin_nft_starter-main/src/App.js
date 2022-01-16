@@ -25,6 +25,7 @@ const INITIAL_LINK_STATE = {
   etherscan: "",
   opensea: "",
   rarible: "",
+  zora: ""
 };
 
 const INITIAL_TRANSACTION_STATE = {
@@ -266,6 +267,7 @@ const App = () => {
               opensea: `https://testnets.opensea.io/assets/${CONTRACT_ADDRESS}/${tokenId.toNumber()}`,
               rarible: `https://rinkeby.rarible.com/token/${CONTRACT_ADDRESS}:${tokenId.toNumber()}`,
               etherscan: `https://rinkeby.etherscan.io/tx/${nftTxn.hash}`,
+              //zora: `https://rinkeby.zora.com`
             });
           }
         );
