@@ -34,7 +34,7 @@ contract FilecoinNFTHack is ERC721URIStorage {
     event RemainingMintableNFTChange(uint256 remainingMintableNFTs);
 
     //This sets our collection details. Anything minted by this contract will fall under this header
-    constructor() ERC721 ("EthGlobal NFTHack2022", "Filecoin Starter NFTs") {
+    constructor() ERC721 ("Creative NFT", "CRTV") {
         console.log("This is my NFT contract");
         maxNFTs=100; //set a limit to number of nft's that are mintable
     }

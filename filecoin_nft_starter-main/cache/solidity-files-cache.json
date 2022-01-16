@@ -1,9 +1,9 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/Users/developerally/Desktop/Code/Presentations/filecoin_nft_starter/contracts/FilecoinNFTHack.sol": {
-      "lastModificationDate": 1642180893321,
-      "contentHash": "78c17c156c386f310e63e79b33080363",
+    "/Users/g2musicgroup/Developer/NFT-starter/filecoin_nft_starter-main/contracts/FilecoinNFTHack.sol": {
+      "lastModificationDate": 1642307654319,
+      "contentHash": "e1817975f0aa3a84df8b01f65f27edd4",
       "sourceName": "contracts/FilecoinNFTHack.sol",
       "solcConfig": {
         "version": "0.8.4",
@@ -40,8 +40,8 @@
         "FilecoinNFTHack"
       ]
     },
-    "/Users/developerally/Desktop/Code/Presentations/filecoin_nft_starter/node_modules/@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol": {
-      "lastModificationDate": 1642154239119,
+    "/Users/g2musicgroup/Developer/NFT-starter/filecoin_nft_starter-main/node_modules/@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol": {
+      "lastModificationDate": 1642305486523,
       "contentHash": "580a443491d9d70eb064b0130fc3cd01",
       "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol",
       "solcConfig": {
@@ -77,8 +77,8 @@
         "ERC721URIStorage"
       ]
     },
-    "/Users/developerally/Desktop/Code/Presentations/filecoin_nft_starter/node_modules/@openzeppelin/contracts/utils/Counters.sol": {
-      "lastModificationDate": 1642154239112,
+    "/Users/g2musicgroup/Developer/NFT-starter/filecoin_nft_starter-main/node_modules/@openzeppelin/contracts/utils/Counters.sol": {
+      "lastModificationDate": 1642305479762,
       "contentHash": "74654e3ae5d7f39555055dfe244dab7a",
       "sourceName": "@openzeppelin/contracts/utils/Counters.sol",
       "solcConfig": {
@@ -112,8 +112,8 @@
         "Counters"
       ]
     },
-    "/Users/developerally/Desktop/Code/Presentations/filecoin_nft_starter/node_modules/hardhat/console.sol": {
-      "lastModificationDate": 1642154235049,
+    "/Users/g2musicgroup/Developer/NFT-starter/filecoin_nft_starter-main/node_modules/hardhat/console.sol": {
+      "lastModificationDate": 1642305495785,
       "contentHash": "cc4777addd464ea56fa35b1c45df0591",
       "sourceName": "hardhat/console.sol",
       "solcConfig": {
@@ -147,8 +147,8 @@
         "console"
       ]
     },
-    "/Users/developerally/Desktop/Code/Presentations/filecoin_nft_starter/node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol": {
-      "lastModificationDate": 1642154239118,
+    "/Users/g2musicgroup/Developer/NFT-starter/filecoin_nft_starter-main/node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol": {
+      "lastModificationDate": 1642305485890,
       "contentHash": "ead7082e39cf31875ff89b22f473500d",
       "sourceName": "@openzeppelin/contracts/token/ERC721/ERC721.sol",
       "solcConfig": {
@@ -190,8 +190,8 @@
         "ERC721"
       ]
     },
-    "/Users/developerally/Desktop/Code/Presentations/filecoin_nft_starter/node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol": {
-      "lastModificationDate": 1642154239122,
+    "/Users/g2musicgroup/Developer/NFT-starter/filecoin_nft_starter-main/node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol": {
+      "lastModificationDate": 1642305490850,
       "contentHash": "27d219ec6f69478d065fdbfa7931da68",
       "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721.sol",
       "solcConfig": {
@@ -227,8 +227,8 @@
         "IERC721"
       ]
     },
-    "/Users/developerally/Desktop/Code/Presentations/filecoin_nft_starter/node_modules/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol": {
-      "lastModificationDate": 1642154239122,
+    "/Users/g2musicgroup/Developer/NFT-starter/filecoin_nft_starter-main/node_modules/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol": {
+      "lastModificationDate": 1642305491287,
       "contentHash": "592df588492d45fdcf46b3cb608c0fbf",
       "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
       "solcConfig": {
@@ -262,8 +262,8 @@
         "IERC721Receiver"
       ]
     },
-    "/Users/developerally/Desktop/Code/Presentations/filecoin_nft_starter/node_modules/@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol": {
-      "lastModificationDate": 1642154239122,
+    "/Users/g2musicgroup/Developer/NFT-starter/filecoin_nft_starter-main/node_modules/@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol": {
+      "lastModificationDate": 1642305491142,
       "contentHash": "efbc0d15b80a74e34dbe8da0f3e879bb",
       "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
       "solcConfig": {
@@ -299,8 +299,8 @@
         "IERC721Metadata"
       ]
     },
-    "/Users/developerally/Desktop/Code/Presentations/filecoin_nft_starter/node_modules/@openzeppelin/contracts/utils/Address.sol": {
-      "lastModificationDate": 1642154239111,
+    "/Users/g2musicgroup/Developer/NFT-starter/filecoin_nft_starter-main/node_modules/@openzeppelin/contracts/utils/Address.sol": {
+      "lastModificationDate": 1642305478187,
       "contentHash": "4cff8b2ea0d958750786b4e3ca308445",
       "sourceName": "@openzeppelin/contracts/utils/Address.sol",
       "solcConfig": {
@@ -334,8 +334,8 @@
         "Address"
       ]
     },
-    "/Users/developerally/Desktop/Code/Presentations/filecoin_nft_starter/node_modules/@openzeppelin/contracts/utils/Context.sol": {
-      "lastModificationDate": 1642154239112,
+    "/Users/g2musicgroup/Developer/NFT-starter/filecoin_nft_starter-main/node_modules/@openzeppelin/contracts/utils/Context.sol": {
+      "lastModificationDate": 1642305479559,
       "contentHash": "5f2c5c4b6af2dd4551027144797bc8be",
       "sourceName": "@openzeppelin/contracts/utils/Context.sol",
       "solcConfig": {
@@ -369,8 +369,8 @@
         "Context"
       ]
     },
-    "/Users/developerally/Desktop/Code/Presentations/filecoin_nft_starter/node_modules/@openzeppelin/contracts/utils/Strings.sol": {
-      "lastModificationDate": 1642154239126,
+    "/Users/g2musicgroup/Developer/NFT-starter/filecoin_nft_starter-main/node_modules/@openzeppelin/contracts/utils/Strings.sol": {
+      "lastModificationDate": 1642305492669,
       "contentHash": "9c54c6c065d9e590fdcdd72c451425b9",
       "sourceName": "@openzeppelin/contracts/utils/Strings.sol",
       "solcConfig": {
@@ -404,8 +404,8 @@
         "Strings"
       ]
     },
-    "/Users/developerally/Desktop/Code/Presentations/filecoin_nft_starter/node_modules/@openzeppelin/contracts/utils/introspection/ERC165.sol": {
-      "lastModificationDate": 1642154239115,
+    "/Users/g2musicgroup/Developer/NFT-starter/filecoin_nft_starter-main/node_modules/@openzeppelin/contracts/utils/introspection/ERC165.sol": {
+      "lastModificationDate": 1642305483546,
       "contentHash": "0e7db055ce108f9da7bb6686a00287c0",
       "sourceName": "@openzeppelin/contracts/utils/introspection/ERC165.sol",
       "solcConfig": {
@@ -441,8 +441,8 @@
         "ERC165"
       ]
     },
-    "/Users/developerally/Desktop/Code/Presentations/filecoin_nft_starter/node_modules/@openzeppelin/contracts/utils/introspection/IERC165.sol": {
-      "lastModificationDate": 1642154239121,
+    "/Users/g2musicgroup/Developer/NFT-starter/filecoin_nft_starter-main/node_modules/@openzeppelin/contracts/utils/introspection/IERC165.sol": {
+      "lastModificationDate": 1642305489588,
       "contentHash": "03e6768535ac4da0e9756f1d8a4a018a",
       "sourceName": "@openzeppelin/contracts/utils/introspection/IERC165.sol",
       "solcConfig": {
@@ -476,84 +476,8 @@
         "IERC165"
       ]
     },
-    "/Users/developerally/Desktop/Code/Presentations/filecoin_nft_starter/contracts/Test.sol": {
-      "lastModificationDate": 1642076276460,
-      "contentHash": "af31fdb7e89df4e54d8095a6570ff6e9",
-      "sourceName": "contracts/Test.sol",
-      "solcConfig": {
-        "version": "0.8.4",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol",
-        "@openzeppelin/contracts/utils/Counters.sol",
-        "hardhat/console.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "FilecoinNFTHackOLD"
-      ]
-    },
-    "/Users/developerally/Desktop/Code/Presentations/filecoin_nft_starter/contracts/Greeter.sol": {
-      "lastModificationDate": 1642076276460,
-      "contentHash": "54c28c84e5277b35b8c8329ce9755dae",
-      "sourceName": "contracts/Greeter.sol",
-      "solcConfig": {
-        "version": "0.8.4",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "hardhat/console.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "Greeter"
-      ]
-    },
-    "/Users/developerally/Desktop/Code/Presentations/filecoin_nft_starter/contracts/libraries/Base64.sol": {
-      "lastModificationDate": 1642076276460,
+    "/Users/g2musicgroup/Developer/NFT-starter/filecoin_nft_starter-main/contracts/libraries/Base64.sol": {
+      "lastModificationDate": 1642305144199,
       "contentHash": "26f9dcf88ed4b6d37ce96d1caf755cbe",
       "sourceName": "contracts/libraries/Base64.sol",
       "solcConfig": {

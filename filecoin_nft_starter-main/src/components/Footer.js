@@ -7,11 +7,11 @@ const Footer = (props) => {
       <img alt="Twitter Logo" className="twitter-logo" src={twitterLogo} />
       <a
         className="footer-text"
-        href="https://twitter.com/developerally"
+        href="https://twitter.com/creativecrtv"
         target="_blank"
         rel="noreferrer"
       >
-        DeveloperAlly
+        Creative
       </a>
     </div>
   );

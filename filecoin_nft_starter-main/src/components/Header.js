@@ -1,5 +1,5 @@
 import React from "react";
-import nftHackLogo from "../assets/nfthack-logo.svg";
+import creativeArtboard from "../assets/creativeArtboard.svg";
 
 const Header = () => {
   return (
@@ -10,14 +10,14 @@ const Header = () => {
         rel="noreferrer"
       >
         <img
-          alt="NFTHack Logo"
+          alt="Creative Logo"
           style={{ height: "200px" }}
-          src={nftHackLogo}
+          src={creativeArtboard}
         ></img>
       </a>
-      <p className="header gradient-text">NFTHack NFT Collection</p>
+      <p className="header gradient-text">Creative NFTHack NFT Collection</p>
       <p className="sub-text">
-        100 personalised NFTs for Filecoin @ EthGlobal NFTHack 2022
+        100 personalised NFTs for Beta Testing Creative platform
       </p>
     </>
   );

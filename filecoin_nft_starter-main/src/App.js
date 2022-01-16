@@ -185,21 +185,21 @@ const App = () => {
     try {
       await client
         .store({
-          name: `${name}: Filecoin @ NFTHack 2022`,
+          name: `${name}: Creative NFTHack 2022`,
           description:
-            "NFT created for EthGlobal NFTHack 2022 and limited to 100 personalised tokens",
+            "NFTs created for EthGlobal NFTHack 2022 and limited to 100 personalised tokens",
           image: new File(
             [
               `${baseSVG}${name}</text>
       </svg>`,
             ],
-            `FilecoinNFTHack.svg`,
+            `creativeArtboard.svg`,
             {
               type: "image/svg+xml",
             }
           ),
           traits: {
-            awesomeness: "100", //probs should use 0-1 for solidity
+            access: "100", //probs should use 0-1 for solidity
           },
         })
         .then((metadata) => {
